@@ -1,6 +1,6 @@
 # Hi there, I'm Navkiran Singh 👋
 
-Here's a quick overview of the technologies I work with:
+Welcome to my GitHub profile! Here's a quick overview of the technologies I work with:
 
 ## Programming Languages
 
